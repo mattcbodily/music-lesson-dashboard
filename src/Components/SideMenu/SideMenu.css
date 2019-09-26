@@ -1,0 +1,9 @@
+#side-menu-container {
+    height: 92vh;
+    width: 10vw;
+    box-sizing: border-box;
+    position: fixed;
+    top: 8vh;
+    left: 0;
+    border-right: 1px solid lightgray;
+}
