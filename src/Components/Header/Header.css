@@ -1,0 +1,8 @@
+#header-container {
+    height: 8vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: #171F29;
+    color: white;
+}
